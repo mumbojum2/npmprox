@@ -1,0 +1,2 @@
+wss://wisp.mercurywork.shop/wisp/
+wss://relay.nyasar.id/wisp/
